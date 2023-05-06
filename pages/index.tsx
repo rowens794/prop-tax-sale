@@ -64,7 +64,7 @@ export default function Home({ data }: { data: any }) {
   };
 
   return (
-    <main className={`min-h-screen p-12 `}>
+    <main className={`min-h-screen p-12 bg-gray-800`}>
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (

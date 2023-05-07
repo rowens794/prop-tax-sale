@@ -1,0 +1,2383 @@
+<table class="table table-striped table-bordered" cellspacing="0" id="FixedWidthContent_gvCTSSearchResults" style="border-style:None;border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$cert_sale_nbr')">Cert Number</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$ticket_nbr')">Ticket Number</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$taxpayer1')">Taxpayer Name</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$prop_desc1')">Description</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$deed_name')">Buyer Name</a></th><th align="center" scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults','Sort$ao_status_date')">Redemption Date</a></th>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_0">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_0" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl02$lbCertSaleNumber','')">2022-C-000001</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000042</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_0">CLAY BILLY E ET UX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_0"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_0">LOT 152, GLEN RAY AVE.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_0">165'(S)X108'(S)XIRR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_0"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_0"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_0">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_0" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_1">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_1" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl03$lbCertSaleNumber','')">2022-C-000002</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000177</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_1">WYNES WILLIAM LEE III</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_1"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_1">PT. LOT NO. 55 HIGH ST.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_1"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_1"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_1"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_1">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_1" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_2">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_2" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl04$lbCertSaleNumber','')">2022-C-000003</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000065</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_2">HANNA H WYATT III &amp; TERRI</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_2"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_2">PT. LOT 85 WICKHAM ST.,ALDERSN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_2">12.5X132</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_2"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_2"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_2">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_2" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_3">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_3" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl05$lbCertSaleNumber','')">2022-C-000004</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000066</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_3">HANNA H WYATT III &amp; TERRI</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_3"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_3">WICKHAM ST.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_3"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_3"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_3"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_3">REDEEMED 04/18/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_3" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_4">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_4" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl06$lbCertSaleNumber','')">2022-C-000005</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000040</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_4">CARTER FLOYD E ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_4"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_4">LOT 146, UNION ROAD.  82.5X165</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_4"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_4"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_4"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_4">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_4" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_5">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_5" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl07$lbCertSaleNumber','')">2022-C-000006</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000525</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_5">WARDEN RONALD J JR &amp; JENNY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_5"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_5">N.SIDE OF HANSBARGER AVE.VINES</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_5">(111 X 85 X 92 X 95)</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_5"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_5"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_5">REDEEMED 03/02/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_5" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_6">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_6" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl08$lbCertSaleNumber','')">2022-C-000007</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000526</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_6">WARDEN RONALD J JR &amp; JENNY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_6"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_6">VINES ADD. N. SIDE OF 20 RD LB</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_6">HANSBARGER AVE. 91 X 98</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_6"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_6"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_6">REDEEMED 01/31/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_6" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_7">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_7" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl09$lbCertSaleNumber','')">2022-C-000008</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000003459</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_7">PITT MALCOM &amp; COUTRNEY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_7"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_7">FRITZ RUN N</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_7">.25 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_7"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_7"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_7">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_7" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_8">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_8" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl10$lbCertSaleNumber','')">2022-C-000009</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000001133</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_8">BRENTMOORE LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_8"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_8">1 LOT RED SULPHUR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_8"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_8"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_8"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_8">DISMISSED 01/13/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_8" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_9">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_9" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl11$lbCertSaleNumber','')">2022-C-000010</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000004415</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_9">WHITE LINDA S</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_9"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_9">MUD RUN W SIDE RT 25/5</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_9">.101 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_9"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_9"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_9">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_9" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_10">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_10" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl12$lbCertSaleNumber','')">2022-C-000011</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000001131</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_10">BREEN EARL ET UX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_10"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_10">BRUSH CR E SIDE OF WVA SEC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_10">RT 12   .541AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_10"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_10"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_10">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_10" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_11">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_11" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl13$lbCertSaleNumber','')">2022-C-000012</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000002386</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_11">HOKE ETHAN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_11">APRIL PHILLIPS &amp; LINDA HOKE</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_11">.11 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_11">LINDSIDE E SIDE OF SEC RT 27</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_11"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_11"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_11">REDEEMED 01/31/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_11" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_12">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_12" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl14$lbCertSaleNumber','')">2022-C-000013</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000001574</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_12">CONNELL CAMALI</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_12"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_12">BRUSH CR. S. SIDE OF SEC. RT.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_12">24   3.39 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_12"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_12"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_12">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_12" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_13">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_13" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl15$lbCertSaleNumber','')">2022-C-000014</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000003431</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_13">PERDUE CLINTON &amp; TIFFANY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_13"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_13">BRUSH CR. W. SIDE OF WV PRI.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_13">RT. 12.   1.36 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_13"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_13"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_13">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_13" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_14">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_14" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl16$lbCertSaleNumber','')">2022-C-000015</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000004534</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_14">WILLIAMS MARK &amp; TINA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_14">LAND CONTRACT</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_14">BRUSH CR. E. SIDE OF SEC. RT.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_14">24/8. LOT #1      .80 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_14"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_14"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_14">REDEEMED 03/24/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_14" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_15">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_15" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl17$lbCertSaleNumber','')">2022-C-000016</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000004047</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_15">STAPLER BRIAN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_15"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_15">LOT 2 MILL STREET</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_15">.62 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_15"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_15"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_15">REDEEMED 03/22/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_15" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_16">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_16" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl18$lbCertSaleNumber','')">2022-C-000017</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000001919</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_16">FAZIO MARGARET M.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_16"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_16">COLLINS RUN N SEC RT 219 24</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_16">CONSOLIDATION 147.28 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_16"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_16"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_16">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_16" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_17">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_17" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl19$lbCertSaleNumber','')">2022-C-000018</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000002152</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_17">GRIMMETT TIMMY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_17"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_17">WEST LINDSIDE S US RT 219</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_17">PT LOT 7   .78 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_17"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_17"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_17">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_17" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_18">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_18" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl20$lbCertSaleNumber','')">2022-C-000019</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000003595</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_18">RAYMOND BRENDA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_18"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_18">LOT 8 MONROE LAKE S.D.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_18">75X132</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_18"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_18"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_18">REDEEMED 01/24/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_18" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_19">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_19" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl21$lbCertSaleNumber','')">2022-C-000020</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000003596</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_19">RAYMOND BRENDA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_19"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_19">LOT 6 MONROE LAKE S.D. E.SIDE</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_19">75X132</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_19"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_19"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_19">REDEEMED 12/22/2022</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_19" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_20">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_20" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl22$lbCertSaleNumber','')">2022-C-000021</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000000847</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_20">BELCHER STEVEN P &amp; MISTY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_20"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_20">MITCHELL SUBDIVISION:</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_20">104 X 100</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_20"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_20"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_20">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_20" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_21">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_21" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl23$lbCertSaleNumber','')">2022-C-000022</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000005171</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_21">CLAY BILLY E ET UX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_21"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_21">2.033 AC FLAT MT</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_21"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_21"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_21"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_21">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_21" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_22">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_22" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl24$lbCertSaleNumber','')">2022-C-000023</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006158</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_22">WAID WILLARD L JR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_22"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_22">SINKS GROVE:  1876 SQ. FT.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_22">E.S.SEC. RT. 5</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_22"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_22"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_22">REDEEMED 03/22/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_22" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_23">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_23" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl25$lbCertSaleNumber','')">2022-C-000024</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006159</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_23">WAID WILLARD L JR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_23"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_23">RODGERS LANDNR. OF SINKS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_23">GRVE E ST. RT. 5   ( 1.93 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_23"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_23"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_23">REDEEMED 03/22/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_23" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_24">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_24" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl26$lbCertSaleNumber','')">2022-C-000025</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000005316</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_24">FEURY LENNIE J &amp; HARVEY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_24"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_24">NR LEBANON W.S.ST RT 219/2</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_24">1.204 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_24"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_24"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_24">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_24" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_25">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_25" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl27$lbCertSaleNumber','')">2022-C-000026</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000005955</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_25">RIDGEWIEW INVESTMENT PROP LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_25"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_25">RAEBURN MT E S ST SEC RT 219/1</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_25">64.75 ACRES</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_25"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_25"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_25">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_25" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_26">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_26" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl28$lbCertSaleNumber','')">2022-C-000027</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006715</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_26">COLE PAMELA SUE</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_26"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_26">1 AC INDIAN CREEK</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_26">(SEE NOTES)</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_26"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_26"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_26">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_26" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_27">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_27" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl29$lbCertSaleNumber','')">2022-C-000028</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000007840</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_27">QUALLS VIRGINIA ADELL</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_27"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_27">NR SARTON W SIDE OF SEC RT 7/4</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_27">1.7AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_27"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_27"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_27">DISMISSED 01/13/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_27" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_28">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_28" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl30$lbCertSaleNumber','')">2022-C-000029</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008233</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_28">WADDELL DAVID W SR &amp;</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_28">SHARON L</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_28">0.4 AC INDIAN CREEK</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_28"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_28"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_28"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_28">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_28" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_29">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_29" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl31$lbCertSaleNumber','')">2022-C-000030</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000007005</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_29">FRANCISCO  DAVID &amp; VIRGINIA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_29"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_29">1 AC LAUREL CR. ON SEC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_29">RT 23/4</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_29"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_29"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_29">REDEEMED 12/13/2022</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_29" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_30">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_30" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl32$lbCertSaleNumber','')">2022-C-000031</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000007536</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_30">MANN DARRELL</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_30"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_30">40 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_30">COOKS RUN N SEC RT 25/6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_30"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_30"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_30">REDEEMED 02/01/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_30" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_31">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_31" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl33$lbCertSaleNumber','')">2022-C-000032</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006840</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_31">DICKSON DAVID ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_31"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_31">FLAT WOODS N SIDE SEC RT 25 6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_31">50.317</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_31"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_31"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_31">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_31" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_32">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_32" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl34$lbCertSaleNumber','')">2022-C-000033</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006841</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_32">DICKSON DAVID ETUX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_32"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_32">FLAT WOOD 25 6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_32">1.529 ACRES</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_32"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_32"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_32">REDEEMED 02/23/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_32" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_33">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_33" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl35$lbCertSaleNumber','')">2022-C-000034</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006839</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_33">DICKSON DAVID</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_33"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_33">FLAT WOODS N SIDE SEC RT 25 6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_33">1.56</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_33"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_33"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_33">REDEEMED 02/23/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_33" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_34">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_34" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl36$lbCertSaleNumber','')">2022-C-000035</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006443</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_34">BAILEY DONALD L &amp; DEBORAH</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_34"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_34">2.01 AC BRIAR RUN ON SEC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_34">RT 219/16</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_34"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_34"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_34">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_34" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_35">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_35" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl37$lbCertSaleNumber','')">2022-C-000036</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008308</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_35">WHITT STEVEN G</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_35"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_35">IN VALLEY, S. OF SEC RT 29/2</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_35">80 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_35"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_35"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_35">REDEEMED 03/09/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_35" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_36">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_36" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl38$lbCertSaleNumber','')">2022-C-000037</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000006648</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_36">CANTERBURY WILLIAM ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_36"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_36">IN VALLEY, N. OF SEC. RT. 29/2</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_36">65 AC  1/8 INT</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_36"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_36"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_36">REDEEMED 04/13/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_36" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_37">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_37" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl39$lbCertSaleNumber','')">2022-C-000038</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000007661</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_37">MILAM JOHN M</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_37"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_37">20 AC  (CERT. NO. 58)</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_37">ALEXANDER VASS EST</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_37"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_37"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_37">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_37" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_38">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_38" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl40$lbCertSaleNumber','')">2022-C-000039</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009582</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_38">HAYES LEONARD</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_38"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_38">BEAR TRAK LOT 53</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_38">10 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_38"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_38"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_38">REDEEMED 02/25/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_38" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_39">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_39" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl41$lbCertSaleNumber','')">2022-C-000040</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009605</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_39">HENSLEY LISA ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_39">EDWARD &amp; VIRGINIA LIFE EST</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_39">BEAR TRAK-LOT 26</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_39">5 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_39"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_39"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_39">REDEEMED 02/23/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_39" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_40">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_40" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl42$lbCertSaleNumber','')">2022-C-000041</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009606</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_40">HENSLEY LISA ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_40">EDWARD &amp; VIRGINIA LIFE EST</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_40">BEAR TRAK-LOT 27</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_40">5 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_40"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_40"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_40">REDEEMED 02/23/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_40" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_41">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_41" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl43$lbCertSaleNumber','')">2022-C-000042</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010554</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_41">SMITH EDWARD L JR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_41">T J WILFONG JR &amp; LISA HENSLEY</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_41">BEAR TRAK-LOT 28</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_41">5 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_41"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_41"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_41">REDEEMED 02/23/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_41" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_42">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_42" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl44$lbCertSaleNumber','')">2022-C-000043</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009796</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_42">JARRELL KENNETH L ET UX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_42"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_42">COVE CRK.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_42">5.26 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_42"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_42"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_42">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_42" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_43">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_43" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl45$lbCertSaleNumber','')">2022-C-000044</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009548</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_43">HARDY GARY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_43"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_43">COVE CK. N.S.SEC.RT.8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_43">3.01 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_43"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_43"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_43">REDEEMED 05/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_43" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_44">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_44" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl46$lbCertSaleNumber','')">2022-C-000045</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009339</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_44">FAULKNIER GORDON M &amp; SARAH</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_44"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_44">EAST OF SEC RT 8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_44">20AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_44"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_44"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_44">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_44" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_45">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_45" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl47$lbCertSaleNumber','')">2022-C-000046</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009338</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_45">FAULKNIER GORDON &amp; SARAH</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_45"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_45">COVE CR ON SEC RT 8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_45">30 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_45"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_45"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_45">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_45" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_46">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_46" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl48$lbCertSaleNumber','')">2022-C-000047</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010228</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_46">NICEWANDER RUSSELL LEE ET ALS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_46"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_46">DEVILS CK- S.S.ST. RT.8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_46">0.85 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_46"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_46"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_46">REDEEMED 03/16/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_46" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_47">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_47" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl49$lbCertSaleNumber','')">2022-C-000048</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010818</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_47">WHISLER KEVIN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_47"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_47">2.21 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_47"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_47"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_47"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_47">REDEEMED 01/31/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_47" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_48">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_48" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl50$lbCertSaleNumber','')">2022-C-000049</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010727</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_48">TROUT JASON</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_48">BURDETTE LIFE EST</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_48">GAP MILLS N/S SEC. RT. 8,ALONG</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_48">0.50 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_48"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_48"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_48">REDEEMED 05/03/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_48" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_49">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_49" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl51$lbCertSaleNumber','')">2022-C-000050</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008552</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_49">ALLEN LAWRENCE &amp; DENISE</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_49"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_49">9,821 SQ FT</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_49">WV RT 3 ALONG DRY RUN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_49"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_49"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_49">REDEEMED 05/03/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_49" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_50">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_50" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl52$lbCertSaleNumber','')">2022-C-000051</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008553</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_50">ALLEN LAWRENCE &amp; DENISE</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_50"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_50">3,179 SQ FT</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_50"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_50"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_50"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_50">REDEEMED 05/03/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_50" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_51">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_51" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl53$lbCertSaleNumber','')">2022-C-000052</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008589</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_51">ARTHUR RICHARD C</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_51"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_51">POTTS CR.N.SIDE OF SEC.RT.17</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_51">23.32AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_51"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_51"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_51">REDEEMED 04/25/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_51" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_52">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_52" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl54$lbCertSaleNumber','')">2022-C-000053</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009926</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_52">LAFFERTY JOHN L II</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_52">DOROTHY LAFFERTY LIFE EST</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_52">POTTS CR. N OF SEC RT 17  1.84</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_52">1.441 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_52"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_52"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_52">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_52" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_53">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_53" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl55$lbCertSaleNumber','')">2022-C-000054</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008594</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_53">ARTHUR WYLIE E.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_53"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_53">POTTS CR. ON SEC RT 17</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_53">30.68 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_53"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_53"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_53">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_53" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_54">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_54" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl56$lbCertSaleNumber','')">2022-C-000055</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000008845</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_54">BROWN DWAYNE D ET UX ET AL</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_54"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_54">POTTS CK - S S SEC RT 17</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_54">4.75 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_54"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_54"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_54">REDEEMED 01/03/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_54" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_55">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_55" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl57$lbCertSaleNumber','')">2022-C-000056</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009437</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_55">GARRETT BERNARD A ET AL</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_55"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_55">EWEINGS RUN S. SIDE OF SEC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_55">92.19 AC (S)</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_55"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_55"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_55">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_55" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_56">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_56" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl58$lbCertSaleNumber','')">2022-C-000057</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010357</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_56">PRICHARD JAMES E JR &amp;</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_56">PRICHARD JEFFERY ALLEN</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_56">4.5 AC RAY SIDING POTTS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_56">CREEK</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_56"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_56"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_56">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_56" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_57">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_57" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl59$lbCertSaleNumber','')">2022-C-000058</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009481</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_57">GREENE MERLIN H OR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_57">MERLINA D GREENE</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_57">S. SIDE OF AN UNNAMED ST.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_57">LOT 47- 1.035 AC.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_57"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_57"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_57">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_57" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_58">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_58" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl60$lbCertSaleNumber','')">2022-C-000059</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009482</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_58">GREENE MERLIN H OR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_58">MERLINA D</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_58">S. SIDE OF AN UNNAMED ST.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_58">LOT 48- 100X175X90X130</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_58"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_58"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_58">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_58" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_59">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_59" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl61$lbCertSaleNumber','')">2022-C-000060</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000009483</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_59">GREENE MERLIN H OR</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_59">MERLINA D GREENE</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_59">S. SIDE OF AN UNNAMED ST.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_59">LOT 50 - 100X130X90X175</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_59"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_59"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_59">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_59" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_60">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_60" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl62$lbCertSaleNumber','')">2022-C-000061</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000010194</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_60">NANNEY ROBERT T</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_60"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_60">S. SIDE OF SEC. RT. 8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_60">LOT 55 - 100X200X100X210</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_60"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_60"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_60">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_60" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_61">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_61" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl63$lbCertSaleNumber','')">2022-C-000062</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011330</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_61">BRENTMOORE LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_61"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_61">LODGE HALL, W.S. ST. SEC. RT.</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_61">11.  8 POLES</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_61"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_61"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_61">DISMISSED 01/13/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_61" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_62">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_62" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl64$lbCertSaleNumber','')">2022-C-000063</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011331</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_62">BROWN ALAN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_62"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_62">EAST OF SEC RT 8</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_62">TRACT 27  10 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_62"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_62"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_62">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_62" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_63">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_63" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl65$lbCertSaleNumber','')">2022-C-000064</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011825</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_63">MOUNTAIN AMERICA LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_63">A WV LLC</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_63">KNOBS, SS ST SEC RT. 10</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_63">.43 AC NEW SURVEY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_63"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_63"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_63">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_63" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_64">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_64" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl66$lbCertSaleNumber','')">2022-C-000065</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000012138</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_64">WALNUT RIDGE,LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_64">JAMES DAVID</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_64">KNOBS S.S.ST RT 10</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_64">31.07 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_64"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_64"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_64">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_64" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_65">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_65" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl67$lbCertSaleNumber','')">2022-C-000066</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011828</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_65">MOUNTAIN AMERICA,LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_65"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_65">5.15 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_65">KNOBS S S ST RT 10</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_65"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_65"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_65">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_65" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_66">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_66" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl68$lbCertSaleNumber','')">2022-C-000067</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011259</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_66">BASDEKIS ATHANASIOS &amp; VIVIAN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_66"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_66">KNOBS S.SEC ST RT 10</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_66">5.30 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_66"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_66"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_66">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_66" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_67">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_67" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl69$lbCertSaleNumber','')">2022-C-000068</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000012049</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_67">SUGAR TREE LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_67">JAMES DAVID</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_67">KNOBS  E.S. ST. SEC. RT.10/5</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_67">56.51 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_67"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_67"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_67">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_67" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_68">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_68" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl70$lbCertSaleNumber','')">2022-C-000069</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000012050</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_68">SUGAR TREE LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_68">JAMES DAVID</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_68">19.71 AC TRACT II</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_68">KNOBS E S ST SEC RT 10/5</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_68"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_68"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_68">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_68" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_69">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_69" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl71$lbCertSaleNumber','')">2022-C-000070</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011829</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_69">MOUNTAIN AMERICA,LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_69">A WV LLC</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_69">CAULDERS PEAK SS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_69">59.908 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_69"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_69"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_69">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_69" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_70">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_70" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl72$lbCertSaleNumber','')">2022-C-000071</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011826</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_70">MOUNTAIN AMERICA LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_70">A WV LLC</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_70">6.26 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_70">ST SEC RT 219/6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_70"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_70"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_70">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_70" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_71">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_71" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl73$lbCertSaleNumber','')">2022-C-000072</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011636</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_71">HUNTER KENNETH &amp; YOLANDA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_71"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_71">7 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_71">SEC RT 219/6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_71"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_71"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_71">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_71" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_72">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_72" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl74$lbCertSaleNumber','')">2022-C-000073</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011998</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_72">SHERRILL JOHN</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_72"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_72">KNOBS SS ST SEC RT. 10</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_72">3.563 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_72"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_72"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_72">REDEEMED 02/25/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_72" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_73">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_73" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl75$lbCertSaleNumber','')">2022-C-000074</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011827</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_73">MOUNTAIN AMERICA LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_73">A WV LLC</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_73">NR UNION W S ST SEC RT 219/6</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_73">.10 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_73"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_73"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_73">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_73" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_74">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_74" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl76$lbCertSaleNumber','')">2022-C-000075</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011552</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_74">GREENTREE, LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_74"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_74">SALT SULPHUR US 219</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_74">167.97 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_74"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_74"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_74">REDEEMED 01/04/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_74" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_75">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_75" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl77$lbCertSaleNumber','')">2022-C-000076</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000011637</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_75">HUNTER KENNETH &amp; YOLANDA</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_75"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_75">6.518 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_75">SALT SULPHUR US 219</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_75"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_75"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_75">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_75" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_76">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_76" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl78$lbCertSaleNumber','')">2022-C-000077</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000012036</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_76">SOUTHERN MINERALS LLC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_76"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_76">MINERAL RIGHTS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_76">1,543.665 AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_76"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_76"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_76">DISMISSED 01/13/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_76" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_77">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_77" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl79$lbCertSaleNumber','')">2022-C-000078</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000013231</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_77">HANNA H WYATT II &amp; TERRI</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_77"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_77">LOTS #21, 22, 23, 24</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_77">ALDERSON HEIGHTS</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_77"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_77"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_77">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_77" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_78">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_78" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl80$lbCertSaleNumber','')">2022-C-000079</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000013593</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_78">RICHMOND CRYSTAL &amp;</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_78">CHRISTOPHER THOMAS</span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_78">NR CREAMERY E S ST SEC RT 7/2</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_78">2.231AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_78"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_78"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_78">REDEEMED 12/13/2022</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_78" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_79">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_79" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl81$lbCertSaleNumber','')">2022-C-000080</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000013455</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_79">MCCORMICK ROBERT</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_79"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_79">BIG SURVEY W S ST SEC RT 3/5</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_79">60AC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_79"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_79"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_79">REDEEMED 05/05/2023</span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_79" style="color:Red;"></span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_80">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_80" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl82$lbCertSaleNumber','')">2022-C-000081</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000013099</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_80">CROUSE JUDY</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_80"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_80">LOT 17 WESTGATE ESTATES SD</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_80">100X152.04X113.18X160.60</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_80"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_80"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_80">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_80" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr><tr>
+			<td align="left">
+                        <div class="form-group">
+                            <ul class="list-group ml-1" style="width: 130px; list-style-type: none;">
+                                <li style="padding-bottom:15px;">
+                                    <span id="FixedWidthContent_gvCTSSearchResults_lblCountyName_81">MONROE</span>
+                                    
+                                    <a id="FixedWidthContent_gvCTSSearchResults_lbCertSaleNumber_81" class="clearfix" href="javascript:__doPostBack('ctl00$FixedWidthContent$gvCTSSearchResults$ctl83$lbCertSaleNumber','')">2022-C-000082</a>
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                    </td><td>0000012906</td><td>
+
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer1_81">BADGER, JOSEPH ET UX</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblTaxpayer2_81"></span>
+                    </td><td>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc1_81">5.08 AC WOLF CR. W OF ST SEC</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc2_81">RT 12</span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc3_81"></span><br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblDesc4_81"></span>
+                    </td><td>&nbsp;</td><td align="center">
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblAOStatus_81">CERTIFIED </span>
+                        <br>
+                        <br>
+                        <span id="FixedWidthContent_gvCTSSearchResults_lblUpcoming_81" style="color:Red;">Upcoming Land Sale 05/10/2023</span>
+                    </td>
+		</tr>
+	</tbody></table>

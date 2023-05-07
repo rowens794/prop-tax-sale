@@ -1,0 +1,1049 @@
+<table class="table table-bordered table-striped" cellspacing="0" rules="all" border="1" id="FixedWidthContent_WebHandoutGV" style="border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">&nbsp;</th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$cert_nbr')">CERTIFICATE OF SALE</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$ticket_nbr')">TICKET #</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$district_name')">DISTRICT</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$map')">MAP</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$parcel')">PARCEL</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$sub_parcel')">SUB PARCEL</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$sub_sub_parcel')">SUB SUB PARCEL</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$assessed_name')">ASSESSED NAME</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$legal_desc')">LEGAL DESCRIPTION</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$FixedWidthContent$WebHandoutGV','Sort$minimum_bid')">MINIMUM BID</a></th>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_0" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-01-0001-0001-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_0">2022-C-000001</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_0">42</span>
+                </td><td>ALDERSON CORP</td><td>0001</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_0">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_0">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_0">0000</span>
+                    </div>
+                </td><td>CLAY BILLY E ET UX </td><td>LOT 152, GLEN RAY AVE.165'(S)X108'(S)XIRR165'(S)X108'(S)XIRR</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_0">$440.57</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_1" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-01-0002-0044-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_1">2022-C-000002</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_1">177</span>
+                </td><td>ALDERSON CORP</td><td>0002</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_1">0044</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_1">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_1">0000</span>
+                    </div>
+                </td><td>WYNES WILLIAM LEE III </td><td>PT. LOT NO. 55 HIGH ST.</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_1">$1,325.07</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_2" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-01-0002-0076-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_2">2022-C-000003</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_2">65</span>
+                </td><td>ALDERSON CORP</td><td>0002</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_2">0076</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_2">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_2">0000</span>
+                    </div>
+                </td><td>HANNA H WYATT III &amp; TERRI </td><td>PT. LOT 85 WICKHAM ST.,ALDERSN12.5X13212.5X132</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_2">$231.08</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_3" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-01-0003-0091-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_3">2022-C-000005</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_3">40</span>
+                </td><td>ALDERSON CORP</td><td>0003</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_3">0091</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_3">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_3">0000</span>
+                    </div>
+                </td><td>CARTER FLOYD E ET ALS </td><td>LOT 146, UNION ROAD.  82.5X165</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_3">$233.01</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_4" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0015-0035-0001&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_4">2022-C-000008</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_4">3459</span>
+                </td><td>RED SULPHUR</td><td>0015</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_4">0035</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_4">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_4">0000</span>
+                    </div>
+                </td><td>PITT MALCOM &amp; COUTRNEY </td><td>FRITZ RUN N.25 AC.25 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_4">$329.84</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_5" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0017-0018-0007&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_5">2022-C-000010</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_5">4415</span>
+                </td><td>RED SULPHUR</td><td>0017</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_5">0018</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_5">0007</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_5">0000</span>
+                    </div>
+                </td><td>WHITE LINDA S </td><td>MUD RUN W SIDE RT 25/5.101 AC.101 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_5">$174.56</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_6" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0021-0026-0001&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_6">2022-C-000011</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_6">1131</span>
+                </td><td>RED SULPHUR</td><td>0021</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_6">0026</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_6">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_6">0000</span>
+                    </div>
+                </td><td>BREEN EARL ET UX </td><td>BRUSH CR E SIDE OF WVA SECRT 12   .541ACRT 12   .541AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_6">$1,003.37</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_7" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0027-0021-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_7">2022-C-000013</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_7">1574</span>
+                </td><td>RED SULPHUR</td><td>0027</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_7">0021</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_7">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_7">3002</span>
+                    </div>
+                </td><td>CONNELL CAMALI </td><td>BRUSH CR. S. SIDE OF SEC. RT.24   3.39 AC.24   3.39 AC.</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_7">$1,071.40</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_8" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0033-0005-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_8">2022-C-000014</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_8">3431</span>
+                </td><td>RED SULPHUR</td><td>0033</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_8">0005</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_8">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_8">0000</span>
+                    </div>
+                </td><td>PERDUE CLINTON &amp; TIFFANY </td><td>BRUSH CR. W. SIDE OF WV PRI.RT. 12.   1.36 AC.RT. 12.   1.36 AC.</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_8">$704.88</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_9" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-0034-0023-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_9">2022-C-000017</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_9">1919</span>
+                </td><td>RED SULPHUR</td><td>0034</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_9">0023</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_9">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_9">0000</span>
+                    </div>
+                </td><td>FAZIO MARGARET M. </td><td>COLLINS RUN N SEC RT 219 24CONSOLIDATION 147.28 ACCONSOLIDATION 147.28 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_9">$3,142.14</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_10" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-023A-0009-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_10">2022-C-000018</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_10">2152</span>
+                </td><td>RED SULPHUR</td><td>023A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_10">0009</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_10">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_10">0000</span>
+                    </div>
+                </td><td>GRIMMETT TIMMY </td><td>WEST LINDSIDE S US RT 219PT LOT 7   .78 ACPT LOT 7   .78 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_10">$257.82</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_11" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-03-032B-0005-0001&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_11">2022-C-000021</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_11">847</span>
+                </td><td>RED SULPHUR</td><td>032B</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_11">0005</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_11">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_11">0000</span>
+                    </div>
+                </td><td>BELCHER STEVEN P &amp; MISTY </td><td>MITCHELL SUBDIVISION:104 X 100104 X 100</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_11">$1,286.56</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_12" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-04-0001-0001-0007&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_12">2022-C-000022</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_12">5171</span>
+                </td><td>SECOND CREEK</td><td>0001</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_12">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_12">0007</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_12">0000</span>
+                    </div>
+                </td><td>CLAY BILLY E ET UX </td><td>2.033 AC FLAT MT</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_12">$237.49</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_13" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-04-0025-0014-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_13">2022-C-000026</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_13">5955</span>
+                </td><td>SECOND CREEK</td><td>0025</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_13">0014</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_13">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_13">0000</span>
+                    </div>
+                </td><td>RIDGEWIEW INVESTMENT PROP LLC </td><td>RAEBURN MT E S ST SEC RT 219/164.75 ACRES64.75 ACRES</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_13">$2,070.81</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_14" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-05-0008-0045-0004&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_14">2022-C-000027</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_14">6715</span>
+                </td><td>SPRINGFIELD</td><td>0008</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_14">0045</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_14">0004</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_14">0000</span>
+                    </div>
+                </td><td>COLE PAMELA SUE </td><td>1 AC INDIAN CREEK(SEE NOTES)(SEE NOTES)</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_14">$686.73</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_15" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-05-0014-0031-0004&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_15">2022-C-000029</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_15">8233</span>
+                </td><td>SPRINGFIELD</td><td>0014</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_15">0031</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_15">0004</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_15">0000</span>
+                    </div>
+                </td><td>WADDELL DAVID W SR &amp; SHARON L</td><td>0.4 AC INDIAN CREEK</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_15">$715.77</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_16" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-05-0031-0047-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_16">2022-C-000035</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_16">6443</span>
+                </td><td>SPRINGFIELD</td><td>0031</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_16">0047</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_16">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_16">0000</span>
+                    </div>
+                </td><td>BAILEY DONALD L &amp; DEBORAH </td><td>2.01 AC BRIAR RUN ON SECRT 219/16RT 219/16</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_16">$864.81</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_17" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-05-0042-0004-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_17">2022-C-000038</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_17">7661</span>
+                </td><td>SPRINGFIELD</td><td>0042</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_17">0004</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_17">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_17">0000</span>
+                    </div>
+                </td><td>MILAM JOHN M </td><td>20 AC  (CERT. NO. 58)ALEXANDER VASS ESTALEXANDER VASS EST</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_17">$869.48</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_18" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0007-0071-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_18">2022-C-000043</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_18">9796</span>
+                </td><td>SWEET SPRINGS</td><td>0007</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_18">0071</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_18">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_18">0000</span>
+                    </div>
+                </td><td>JARRELL KENNETH L ET UX </td><td>COVE CRK.5.26 AC.5.26 AC.</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_18">$1,252.00</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_19" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0007-0104-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_19">2022-C-000045</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_19">9339</span>
+                </td><td>SWEET SPRINGS</td><td>0007</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_19">0104</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_19">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_19">0000</span>
+                    </div>
+                </td><td>FAULKNIER GORDON M &amp; SARAH </td><td>EAST OF SEC RT 820AC20AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_19">$1,032.44</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_20" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0007-0106-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_20">2022-C-000046</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_20">9338</span>
+                </td><td>SWEET SPRINGS</td><td>0007</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_20">0106</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_20">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_20">0000</span>
+                    </div>
+                </td><td>FAULKNIER GORDON &amp; SARAH </td><td>COVE CR ON SEC RT 830 AC30 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_20">$1,419.94</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_21" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0036-0023-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_21">2022-C-000053</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_21">9926</span>
+                </td><td>SWEET SPRINGS</td><td>0036</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_21">0023</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_21">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_21">0000</span>
+                    </div>
+                </td><td>LAFFERTY JOHN L II DOROTHY LAFFERTY LIFE EST</td><td>POTTS CR. N OF SEC RT 17  1.841.441 AC1.441 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_21">$413.81</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_22" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0037-0001-0001&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_22">2022-C-000054</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_22">8594</span>
+                </td><td>SWEET SPRINGS</td><td>0037</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_22">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_22">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_22">0000</span>
+                    </div>
+                </td><td>ARTHUR WYLIE E. </td><td>POTTS CR. ON SEC RT 1730.68 AC30.68 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_22">$1,191.90</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_23" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0044-0012-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_23">2022-C-000056</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_23">9437</span>
+                </td><td>SWEET SPRINGS</td><td>0044</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_23">0012</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_23">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_23">0000</span>
+                    </div>
+                </td><td>GARRETT BERNARD A ET AL </td><td>EWEINGS RUN S. SIDE OF SEC.92.19 AC (S)92.19 AC (S)</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_23">$5,039.45</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_24" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-0054-0060-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_24">2022-C-000057</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_24">10357</span>
+                </td><td>SWEET SPRINGS</td><td>0054</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_24">0060</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_24">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_24">0000</span>
+                    </div>
+                </td><td>PRICHARD JAMES E JR &amp; PRICHARD JEFFERY ALLEN</td><td>4.5 AC RAY SIDING POTTSCREEKCREEK</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_24">$998.58</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_25" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-007A-0044-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_25">2022-C-000058</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_25">9481</span>
+                </td><td>SWEET SPRINGS</td><td>007A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_25">0044</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_25">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_25">0000</span>
+                    </div>
+                </td><td>GREENE MERLIN H OR MERLINA D GREENE</td><td>S. SIDE OF AN UNNAMED ST.LOT 47- 1.035 AC.LOT 47- 1.035 AC.</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_25">$364.91</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_26" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-007A-0045-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_26">2022-C-000059</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_26">9482</span>
+                </td><td>SWEET SPRINGS</td><td>007A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_26">0045</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_26">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_26">0000</span>
+                    </div>
+                </td><td>GREENE MERLIN H OR MERLINA D</td><td>S. SIDE OF AN UNNAMED ST.LOT 48- 100X175X90X130LOT 48- 100X175X90X130</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_26">$513.40</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_27" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-007A-0047-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_27">2022-C-000060</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_27">9483</span>
+                </td><td>SWEET SPRINGS</td><td>007A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_27">0047</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_27">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_27">0000</span>
+                    </div>
+                </td><td>GREENE MERLIN H OR MERLINA D GREENE</td><td>S. SIDE OF AN UNNAMED ST.LOT 50 - 100X130X90X175LOT 50 - 100X130X90X175</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_27">$336.41</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_28" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-06-007A-0052-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_28">2022-C-000061</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_28">10194</span>
+                </td><td>SWEET SPRINGS</td><td>007A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_28">0052</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_28">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_28">0000</span>
+                    </div>
+                </td><td>NANNEY ROBERT T </td><td>S. SIDE OF SEC. RT. 8LOT 55 - 100X200X100X210LOT 55 - 100X200X100X210</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_28">$351.41</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_29" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-07-0007-0109-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_29">2022-C-000063</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_29">11331</span>
+                </td><td>UNION</td><td>0007</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_29">0109</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_29">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_29">0000</span>
+                    </div>
+                </td><td>BROWN ALAN </td><td>EAST OF SEC RT 8TRACT 27  10 ACTRACT 27  10 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_29">$646.52</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_30" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-07-0010-0024-0008&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_30">2022-C-000067</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_30">11259</span>
+                </td><td>UNION</td><td>0010</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_30">0024</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_30">0008</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_30">0000</span>
+                    </div>
+                </td><td>BASDEKIS ATHANASIOS &amp; VIVIAN </td><td>KNOBS S.SEC ST RT 105.30 AC5.30 AC</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_30">$333.11</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_31" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-07-0010-0030-0005&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_31">2022-C-000072</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_31">11636</span>
+                </td><td>UNION</td><td>0010</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_31">0030</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_31">0005</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_31">0000</span>
+                    </div>
+                </td><td>HUNTER KENNETH &amp; YOLANDA </td><td>7 ACSEC RT 219/6SEC RT 219/6</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_31">$484.45</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_32" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-07-0015-0024-0009&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_32">2022-C-000076</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_32">11637</span>
+                </td><td>UNION</td><td>0015</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_32">0024</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_32">0009</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_32">0000</span>
+                    </div>
+                </td><td>HUNTER KENNETH &amp; YOLANDA </td><td>6.518 ACSALT SULPHUR US 219SALT SULPHUR US 219</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_32">$361.83</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_33" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-09-0005-0008-0001&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_33">2022-C-000078</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_33">13231</span>
+                </td><td>WOLF CREEK</td><td>0005</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_33">0008</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_33">0001</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_33">0000</span>
+                    </div>
+                </td><td>HANNA H WYATT II &amp; TERRI </td><td>LOTS #21, 22, 23, 24ALDERSON HEIGHTSALDERSON HEIGHTS</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_33">$1,193.41</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_34" title="West Virginia Property Viewer" class="link-primary" href="https://mapwv.gov/parcel/?pid=32-09-003A-0016-0000&amp;dp=1" target="_blank"><span class="fa fa-street-view fa-lg pr-1" aria-hidden="true"></span></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_34">2022-C-000081</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_34">13099</span>
+                </td><td>WOLF CREEK</td><td>003A</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_34">0016</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_34">0000</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_34">0000</span>
+                    </div>
+                </td><td>CROUSE JUDY </td><td>LOT 17 WESTGATE ESTATES SD100X152.04X113.18X160.60100X152.04X113.18X160.60</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_34">$1,840.14</span>
+                    </div>
+                </td>
+		</tr><tr>
+			<td>
+                    <div style="text-align:center;">
+                       
+                        <a id="FixedWidthContent_WebHandoutGV_HyperLink1_35" title="West Virginia Property Viewer" class="link-primary" target="_blank"></a>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label6_35">2022-C-000082</span>
+                    </div>
+                </td><td>
+                    <span id="FixedWidthContent_WebHandoutGV_Label1_35">12906</span>
+                </td><td>WOLF CREEK</td><td>9999</td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label2_35">0100</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label3_35">1049</span>
+                    </div>
+                </td><td>
+                    <div style="text-align:center;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label4_35">0000</span>
+                    </div>
+                </td><td>BADGER, JOSEPH ET UX </td><td>5.08 AC WOLF CR. W OF ST SECRT 12RT 12</td><td>
+                    <div style="text-align:right; padding-right:10px;">
+                        <span id="FixedWidthContent_WebHandoutGV_Label5_35">$182.08</span>
+                    </div>
+                </td>
+		</tr>
+	</tbody></table>

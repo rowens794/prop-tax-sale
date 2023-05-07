@@ -4,10 +4,11 @@ import Link from "next/link";
 import path from "path";
 import numeral from "numeral";
 import { MouseEvent } from "react";
+import fs from "fs";
 
 const csv = require("csvtojson");
 
-export default function Home({ data }: { data: any }) {
+export default function Home({ data, certs }: { data: any; certs: any }) {
   const [sortedData, setSortedData] = useState(data);
   const [county, setCounty] = useState("Brooke");
 
@@ -65,6 +66,13 @@ export default function Home({ data }: { data: any }) {
 
   return (
     <main className={`min-h-screen p-12 `}>
+      <Link
+        href="https://www.wvsao.gov/CountyCollections/Default#LandSalesListings"
+        className="text-sm text-gray-300 underline"
+        target="_blank"
+      >
+        Sale Info
+      </Link>
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (
@@ -93,6 +101,7 @@ export default function Home({ data }: { data: any }) {
             <HeaderElement text="Address" onClick={handleSort} />
             <HeaderElement text="Land use" onClick={handleSort} />
             <HeaderElement text="Parcel" onClick={handleSort} />
+            <HeaderElement text="Date" onClick={handleSort} />
           </tr>
         </thead>
 
@@ -100,6 +109,8 @@ export default function Home({ data }: { data: any }) {
           {sortedData && sortedData[county]
             ? sortedData[county].map((row: any) => {
                 let object = JSON.stringify(row);
+                let certID = row.certificateOfSale;
+                let certRecord = certs[county][certID];
                 return (
                   <tr
                     className="hover:bg-slate-700 group hover:p-4 text-gray-200"
@@ -108,24 +119,55 @@ export default function Home({ data }: { data: any }) {
                     <DataElement
                       text="info"
                       link={`/property?data=${encodeURIComponent(object)}`}
+                      status={certRecord.parcel === "CERTIFIED"}
                     />
-                    <DataElement text={row.certificateOfSale} />
-                    <DataElement text={row["Acreage (deed)"]} format="acres" />
+                    <DataElement
+                      text={row.certificateOfSale}
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
+                    <DataElement
+                      text={row["Acreage (deed)"]}
+                      format="acres"
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
                     <DataElement
                       text={row["Total Appraisal"]}
                       format="dollars"
+                      status={certRecord.parcel === "CERTIFIED"}
                     />
                     <DataElement
                       text={row["Building Appraisal"]}
                       format="dollars"
+                      status={certRecord.parcel === "CERTIFIED"}
                     />
-                    <DataElement text={row["minimumBid"]} format="dollars" />
+                    <DataElement
+                      text={row["minimumBid"]}
+                      format="dollars"
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
                     <DataElement
                       text={row["Pysical Address(often incomplete)"]}
                       format="addr"
+                      status={certRecord.parcel === "CERTIFIED"}
                     />
-                    <DataElement text={row["Land use"]} />
-                    <DataElement text={row["pid"]} link={row["url"]} />
+                    <DataElement
+                      text={row["Land use"]}
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
+                    <DataElement
+                      text={row["pid"]}
+                      link={row["url"]}
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
+                    <DataElement
+                      text={certRecord.saleDate}
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
+                    <DataElement
+                      text={certRecord.parcel}
+                      format="status"
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
                   </tr>
                 );
               })
@@ -154,52 +196,137 @@ const DataElement = ({
   text,
   format,
   link,
+  status,
 }: {
   text: string;
-  format?: "s" | "sqft" | "acres" | "dollars" | "addr" | "pid";
+  format?: "s" | "sqft" | "acres" | "dollars" | "addr" | "pid" | "status";
   link?: string;
+  status?: boolean;
 }) => {
   const hover = "group-hover:scale-100";
 
   if (format === "dollars") {
     text = numeral(text).format("$0,0");
-    return <td className={`px-4 py-1 text-xs text-center ${hover}`}>{text}</td>;
+    return (
+      <td
+        className={`px-4 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
   } else if (format === "sqft") {
     text = numeral(text).format("0,0");
-    return <td className={`px-4 py-1 text-xs text-center ${hover}`}>{text}</td>;
+    return (
+      <td
+        className={`px-4 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
   } else if (format === "acres") {
     text = numeral(text).format("0,0.0");
-    return <td className={`px-4 py-1 text-xs text-center ${hover}`}>{text}</td>;
+    return (
+      <td
+        className={`px-4 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
   } else if (format === "addr") {
-    return <td className={`px-4 py-1 text-xs text-center ${hover}`}>{text}</td>;
+    return (
+      <td
+        className={`px-4 py-1 text-xs max-w-xs whitespace-nowrap overflow-ellipsis text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
+  } else if (format === "status") {
+    return (
+      <td
+        className={`px-4 py-1 text-xs text-center ${hover} ${
+          status ? "text-green-500" : "text-red-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
   } else if (link) {
     return (
-      <td className={`px-4 py-1 text-xs text-center ${hover}`}>
-        <Link href={link} target="_blank" className="underline text-blue-200">
+      <td className={`px-4 py-1 text-xs text-center ${hover} `}>
+        <Link
+          href={link}
+          target="_blank"
+          className={`underline ${!status ? "text-gray-500" : "text-blue-200"}`}
+        >
           {text}
         </Link>
       </td>
     );
   } else {
-    return <td className={`px-4 py-1 text-xs text-center ${hover}`}>{text}</td>;
+    return (
+      <td
+        className={`px-4 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {text}
+      </td>
+    );
   }
 };
 
 //get server side props
 export const getServerSideProps: GetServerSideProps = async (context) => {
-  // get a list of all file names in ./countyData
-  const fs = require("fs");
-  const files = fs.readdirSync("./countyData");
+  // get a list of all csv file names in ./countyData
+  let counties = fs.readdirSync("./countyData");
+
+  //remove the .csv from the file names
+  counties = counties.map((county) => {
+    return county.slice(0, -4);
+  });
+
+  //remove propertyCertifica from the list
+  counties = counties.filter((county) => {
+    return county !== "propertyCertifica";
+  });
 
   let obj: { [key: string]: any } = {};
+  let certs: { [key: string]: any } = {};
 
-  for (let i = 0; i < files.length; i++) {
-    const csvFilePath = path.resolve(`./countyData/${files[i]}`);
-    const jsonArray = await csv().fromFile(csvFilePath);
-    obj[files[i].replace(".csv", "")] = jsonArray;
+  //create an object for each county
+  counties.forEach((county) => {
+    certs[county] = {};
+  });
+
+  for (let i = 0; i < counties.length; i++) {
+    //get the data from each file
+    const csvFilePath = path.resolve(`./countyData/${counties[i]}.csv`);
+    let jsonArray = await csv().fromFile(csvFilePath);
+    obj[counties[i]] = jsonArray;
+
+    //get the certificate of sale data
+    const certFilePath = path.resolve(
+      `./countyData/propertyCertification/${counties[i]}.csv`
+    );
+
+    jsonArray = await csv().fromFile(certFilePath);
+    jsonArray.forEach((row: any) => {
+      certs[counties[i]][row["certificateOfSale"]] = {
+        parcel: row["parcel"],
+        saleDate: row["saleDate"],
+      };
+    });
   }
 
   return {
-    props: { data: obj },
+    props: { data: obj, certs: certs },
   };
 };

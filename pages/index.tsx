@@ -11,11 +11,22 @@ const csv = require("csvtojson");
 export default function Home({ data, certs }: { data: any; certs: any }) {
   const [sortedData, setSortedData] = useState(data);
   const [county, setCounty] = useState("Brooke");
+  const [savedCerts, setSavedCerts] = useState([]);
 
   useEffect(() => {
     let counties = Object.keys(data);
     setCounty(counties[0]);
   }, [data]);
+
+  useEffect(() => {
+    //get savedCerts from local storage
+    let savedCerts = localStorage.getItem("savedCerts");
+    if (!savedCerts) {
+      savedCerts = "[]";
+    }
+    let savedCertsArr: [] = JSON.parse(savedCerts);
+    setSavedCerts(savedCertsArr);
+  }, []);
 
   const handleSort = (e: any) => {
     const keys: { [key: string]: any } = {
@@ -64,8 +75,44 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
     setSortedData(updatedParent);
   };
 
+  const saveCertToLocal = (cert: string) => {
+    //get savedCerts from local storage
+    let savedCerts = localStorage.getItem("savedCerts");
+    if (!savedCerts) {
+      savedCerts = "[]";
+    }
+    let savedCertsArr: [] = JSON.parse(savedCerts);
+
+    let certString = `${county}-${cert}`;
+
+    //check if cert is already saved remove it
+    //@ts-ignore
+    let index = savedCertsArr.indexOf(certString);
+    if (index > -1) savedCertsArr.splice(index, 1);
+    //@ts-ignore
+    else savedCertsArr.push(certString);
+
+    //save to local storage
+    localStorage.setItem("savedCerts", JSON.stringify(savedCertsArr));
+    setSavedCerts(savedCertsArr);
+  };
+
+  console.log(savedCerts);
+
   return (
     <main className={`min-h-screen p-12 bg-gray-800`}>
+      <Link
+        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
+        className="text-gray-400 underline text-sm mr-4"
+      >
+        Auditor Land Sale Listings
+      </Link>
+      <Link
+        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
+        className="text-gray-400 underline text-sm mr-4"
+      >
+        Auditor Land Sale Listings
+      </Link>
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (
@@ -116,7 +163,11 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
                     />
                     <DataElement
                       text={row.certificateOfSale}
+                      onClick={() => saveCertToLocal(row.certificateOfSale)}
+                      format="cert"
                       status={certRecord.parcel === "CERTIFIED"}
+                      savedCerts={savedCerts}
+                      county={county}
                     />
                     <DataElement
                       text={row["Acreage (deed)"]}
@@ -190,11 +241,25 @@ const DataElement = ({
   format,
   link,
   status,
+  onClick,
+  savedCerts,
+  county,
 }: {
   text: string;
-  format?: "s" | "sqft" | "acres" | "dollars" | "addr" | "pid" | "status";
+  format?:
+    | "s"
+    | "sqft"
+    | "acres"
+    | "dollars"
+    | "addr"
+    | "pid"
+    | "status"
+    | "cert";
   link?: string;
   status?: boolean;
+  savedCerts?: string[];
+  county?: string;
+  onClick?: (event: MouseEvent<HTMLParagraphElement>) => void;
 }) => {
   const hover = "group-hover:scale-100";
 
@@ -234,11 +299,13 @@ const DataElement = ({
   } else if (format === "addr") {
     return (
       <td
-        className={`px-4 py-1 text-xs max-w-xs whitespace-nowrap overflow-ellipsis text-center ${hover} ${
+        className={`px-4 py-1 text-xs text-center ${hover} ${
           !status && "text-gray-500"
         }`}
       >
-        {text}
+        <p className="w-[250px] overflow-ellipsis overflow-hidden whitespace-nowrap">
+          {text}
+        </p>
       </td>
     );
   } else if (format === "status") {
@@ -247,6 +314,24 @@ const DataElement = ({
         className={`px-4 py-1 text-xs text-center ${hover} ${
           status ? "text-green-500" : "text-red-500"
         }`}
+      >
+        {text}
+      </td>
+    );
+  } else if (format === "cert") {
+    let activeCertFormatting = "text-blue-600 px-6";
+    let testString = `${county}-${text}`;
+    if (savedCerts && savedCerts.includes(testString)) {
+      activeCertFormatting = "text-yellow-500 font-bold px-4";
+    }
+
+    return (
+      <td
+        className={` py-1 text-xs text-center cursor-pointer ${activeCertFormatting} ${hover} ${
+          !status && "text-gray-500"
+        }`}
+        // @ts-ignore
+        onClick={() => onClick(text)}
       >
         {text}
       </td>

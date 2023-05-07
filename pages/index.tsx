@@ -66,13 +66,6 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
 
   return (
     <main className={`min-h-screen p-12 `}>
-      <Link
-        href="https://www.wvsao.gov/CountyCollections/Default#LandSalesListings"
-        className="text-sm text-gray-300 underline"
-        target="_blank"
-      >
-        Sale Info
-      </Link>
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (

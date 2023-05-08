@@ -349,7 +349,7 @@ const DataElement = ({
     link = link || "#";
     return (
       <td
-        className={`px-1 py-1 text-xs text-center ${hover} ${
+        className={`px-1 w-6 py-1 text-xs text-center ${hover} ${
           !status && "text-gray-500"
         }`}
       >
@@ -363,15 +363,15 @@ const DataElement = ({
       </td>
     );
   } else if (format === "check") {
-    let activeCertFormatting = "text-gray-500 px-6";
+    let activeCertFormatting = "text-gray-500 ";
     let testString = `${county}-${text}`;
     if (savedCerts && savedCerts.includes(testString)) {
-      activeCertFormatting = "text-green-500 font-bold px-4";
+      activeCertFormatting = "text-green-500 font-bold ";
     }
 
     return (
       <td
-        className={`px-0 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
+        className={`px-0 w-6 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
           !status && "text-gray-500"
         }`}
       >
@@ -383,15 +383,15 @@ const DataElement = ({
       </td>
     );
   } else if (format === "uncheck") {
-    let activeCertFormatting = "text-gray-500 px-6";
+    let activeCertFormatting = "text-gray-500 ";
     let testString = `${county}-${text}`;
     if (savedCerts && savedCerts.includes(testString)) {
-      activeCertFormatting = "text-red-400 font-bold px-4";
+      activeCertFormatting = "text-red-400 font-bold";
     }
 
     return (
       <td
-        className={`px-0 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
+        className={`px-0 w-6 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
           !status && "text-gray-500"
         }`}
       >
@@ -429,7 +429,7 @@ const DataElement = ({
     let statusChar = "C";
     if (!status) statusChar = "R";
     return (
-      <td className={`px-0  py-1 text-xs text-center ${hover} `}>
+      <td className={`px-0 w-6 py-1 text-xs text-center ${hover} `}>
         <div
           className={`rounded-full ${
             status ? "bg-green-700" : "bg-red-700"

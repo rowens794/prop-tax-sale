@@ -5,13 +5,19 @@ import path from "path";
 import numeral from "numeral";
 import { MouseEvent } from "react";
 import fs from "fs";
+import {
+  IoMdHelpCircle,
+  IoMdCheckmarkCircle,
+  IoMdCloseCircle,
+} from "react-icons/io";
 
 const csv = require("csvtojson");
 
 export default function Home({ data, certs }: { data: any; certs: any }) {
   const [sortedData, setSortedData] = useState(data);
   const [county, setCounty] = useState("Brooke");
-  const [savedCerts, setSavedCerts] = useState([]);
+  const [savedFollowCerts, setSavedFollowCerts] = useState([]);
+  const [savedUnfollowCerts, setSavedUnfollowCerts] = useState([]);
 
   useEffect(() => {
     let counties = Object.keys(data);
@@ -20,12 +26,22 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
 
   useEffect(() => {
     //get savedCerts from local storage
-    let savedCerts = localStorage.getItem("savedCerts");
+    let savedCerts = localStorage.getItem("savedFollowCerts");
     if (!savedCerts) {
       savedCerts = "[]";
     }
     let savedCertsArr: [] = JSON.parse(savedCerts);
-    setSavedCerts(savedCertsArr);
+    setSavedFollowCerts(savedCertsArr);
+  }, []);
+
+  useEffect(() => {
+    //get savedCerts from local storage
+    let savedCerts = localStorage.getItem("savedUnfollowCerts");
+    if (!savedCerts) {
+      savedCerts = "[]";
+    }
+    let savedCertsArr: [] = JSON.parse(savedCerts);
+    setSavedUnfollowCerts(savedCertsArr);
   }, []);
 
   const handleSort = (e: any) => {
@@ -75,9 +91,9 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
     setSortedData(updatedParent);
   };
 
-  const saveCertToLocal = (cert: string) => {
+  const saveFollowCertToLocal = (cert: string) => {
     //get savedCerts from local storage
-    let savedCerts = localStorage.getItem("savedCerts");
+    let savedCerts = localStorage.getItem("savedFollowCerts");
     if (!savedCerts) {
       savedCerts = "[]";
     }
@@ -93,11 +109,31 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
     else savedCertsArr.push(certString);
 
     //save to local storage
-    localStorage.setItem("savedCerts", JSON.stringify(savedCertsArr));
-    setSavedCerts(savedCertsArr);
+    localStorage.setItem("savedFollowCerts", JSON.stringify(savedCertsArr));
+    setSavedFollowCerts(savedCertsArr);
   };
 
-  console.log(savedCerts);
+  const saveUnFollowCertToLocal = (cert: string) => {
+    //get savedCerts from local storage
+    let savedCerts = localStorage.getItem("savedUnfollowCerts");
+    if (!savedCerts) {
+      savedCerts = "[]";
+    }
+    let savedCertsArr: [] = JSON.parse(savedCerts);
+
+    let certString = `${county}-${cert}`;
+
+    //check if cert is already saved remove it
+    //@ts-ignore
+    let index = savedCertsArr.indexOf(certString);
+    if (index > -1) savedCertsArr.splice(index, 1);
+    //@ts-ignore
+    else savedCertsArr.push(certString);
+
+    //save to local storage
+    localStorage.setItem("savedUnfollowCerts", JSON.stringify(savedCertsArr));
+    setSavedUnfollowCerts(savedCertsArr);
+  };
 
   return (
     <main className={`min-h-screen p-12 bg-gray-800`}>
@@ -133,6 +169,9 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
         <thead>
           <tr>
             <HeaderElement text="" onClick={handleSort} />
+            <HeaderElement text="" onClick={handleSort} />
+            <HeaderElement text="" />
+            <HeaderElement text="" onClick={handleSort} />
             <HeaderElement text="Cert ID" onClick={handleSort} />
             <HeaderElement text="Acreage" onClick={handleSort} />
             <HeaderElement text="Tot. Appraisal" onClick={handleSort} />
@@ -158,16 +197,39 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
                   >
                     <DataElement
                       text="info"
+                      format="info"
                       link={`/property?data=${encodeURIComponent(object)}`}
                       status={certRecord.parcel === "CERTIFIED"}
                     />
                     <DataElement
+                      text={certRecord.parcel}
+                      format="status"
+                      status={certRecord.parcel === "CERTIFIED"}
+                    />
+                    <DataElement
                       text={row.certificateOfSale}
-                      onClick={() => saveCertToLocal(row.certificateOfSale)}
+                      format="check"
+                      status={certRecord.parcel === "CERTIFIED"}
+                      onClick={() =>
+                        saveFollowCertToLocal(row.certificateOfSale)
+                      }
+                      savedCerts={savedFollowCerts}
+                      county={county}
+                    />
+                    <DataElement
+                      text={row.certificateOfSale}
+                      format="uncheck"
+                      status={certRecord.parcel === "CERTIFIED"}
+                      onClick={() =>
+                        saveUnFollowCertToLocal(row.certificateOfSale)
+                      }
+                      savedCerts={savedUnfollowCerts}
+                      county={county}
+                    />
+                    <DataElement
+                      text={row.certificateOfSale}
                       format="cert"
                       status={certRecord.parcel === "CERTIFIED"}
-                      savedCerts={savedCerts}
-                      county={county}
                     />
                     <DataElement
                       text={row["Acreage (deed)"]}
@@ -205,11 +267,6 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
                     />
                     <DataElement
                       text={certRecord.saleDate}
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={certRecord.parcel}
-                      format="status"
                       status={certRecord.parcel === "CERTIFIED"}
                     />
                   </tr>
@@ -254,6 +311,9 @@ const DataElement = ({
     | "addr"
     | "pid"
     | "status"
+    | "info"
+    | "check"
+    | "uncheck"
     | "cert";
   link?: string;
   status?: boolean;
@@ -285,6 +345,63 @@ const DataElement = ({
         {text}
       </td>
     );
+  } else if (format === "info") {
+    link = link || "#";
+    return (
+      <td
+        className={`px-1 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        <Link
+          href={link}
+          target="_blank"
+          className={`underline ${!status ? "text-gray-500" : "text-blue-200"}`}
+        >
+          <IoMdHelpCircle className=" h-6 w-6" />
+        </Link>
+      </td>
+    );
+  } else if (format === "check") {
+    let activeCertFormatting = "text-gray-500 px-6";
+    let testString = `${county}-${text}`;
+    if (savedCerts && savedCerts.includes(testString)) {
+      activeCertFormatting = "text-green-500 font-bold px-4";
+    }
+
+    return (
+      <td
+        className={`px-0 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        <IoMdCheckmarkCircle
+          className=" h-6 w-6 mx-auto"
+          // @ts-ignore
+          onClick={() => onClick(text)}
+        />
+      </td>
+    );
+  } else if (format === "uncheck") {
+    let activeCertFormatting = "text-gray-500 px-6";
+    let testString = `${county}-${text}`;
+    if (savedCerts && savedCerts.includes(testString)) {
+      activeCertFormatting = "text-red-400 font-bold px-4";
+    }
+
+    return (
+      <td
+        className={`px-0 py-1 text-xs text-center cursor-pointer  ${activeCertFormatting} ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        <IoMdCloseCircle
+          className=" h-6 w-6 mx-auto"
+          // @ts-ignore
+          onClick={() => onClick(text)}
+        />
+      </td>
+    );
   } else if (format === "acres") {
     text = numeral(text).format("0,0.0");
     return (
@@ -309,29 +426,25 @@ const DataElement = ({
       </td>
     );
   } else if (format === "status") {
+    let statusChar = "C";
+    if (!status) statusChar = "R";
     return (
-      <td
-        className={`px-4 py-1 text-xs text-center ${hover} ${
-          status ? "text-green-500" : "text-red-500"
-        }`}
-      >
-        {text}
+      <td className={`px-0  py-1 text-xs text-center ${hover} `}>
+        <div
+          className={`rounded-full ${
+            status ? "bg-green-700" : "bg-red-700"
+          } w-5 h-5 text-white font bold pt-0.5 mx-auto`}
+        >
+          {statusChar}
+        </div>
       </td>
     );
   } else if (format === "cert") {
-    let activeCertFormatting = "text-blue-600 px-6";
-    let testString = `${county}-${text}`;
-    if (savedCerts && savedCerts.includes(testString)) {
-      activeCertFormatting = "text-yellow-500 font-bold px-4";
-    }
-
     return (
       <td
-        className={` py-1 text-xs text-center cursor-pointer ${activeCertFormatting} ${hover} ${
+        className={`pl-4 py-1 text-xs text-center ${hover} ${
           !status && "text-gray-500"
         }`}
-        // @ts-ignore
-        onClick={() => onClick(text)}
       >
         {text}
       </td>

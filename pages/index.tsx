@@ -136,7 +136,7 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
   };
 
   return (
-    <main className={`min-h-screen p-12 bg-gray-800 w-full`}>
+    <main className={`min-h-screen p-12`}>
       <Link
         href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
         className="text-gray-400 underline text-sm mr-4"

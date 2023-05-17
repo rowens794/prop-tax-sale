@@ -135,20 +135,44 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
     setSavedUnfollowCerts(savedCertsArr);
   };
 
+  //https://wvbar.org/wp-content/uploads/2022/05/Tax-Sales-and-Redemptions.pdf
+
   return (
-    <main className={`min-h-screen p-12 bg-gray-800`}>
-      <Link
-        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
-        className="text-gray-400 underline text-sm mr-4"
-      >
-        Auditor Land Sale Listings
-      </Link>
-      <Link
-        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
-        className="text-gray-400 underline text-sm mr-4"
-      >
-        Auditor Land Sale Listings
-      </Link>
+    <main className={`min-h-screen p-12 bg-black`}>
+      <div className="pb-8">
+        <Link
+          href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
+          className="text-gray-400 underline text-sm mr-4"
+        >
+          Auditor Land Sale Listings
+        </Link>
+
+        <Link
+          href="https://www.wvlegislature.gov/wvcode/code.cfm?chap=11A&art=3#01"
+          className="text-gray-400 underline text-sm"
+        >
+          State Code
+        </Link>
+
+        <Link
+          href="/eli5-breakdown.txt"
+          className="text-gray-400 underline text-sm mx-1"
+        >
+          (Short)
+        </Link>
+
+        <Link href="/eli5.txt" className="text-gray-400 underline text-sm mr-4">
+          (Shorter)
+        </Link>
+
+        <Link
+          href="https://wvbar.org/wp-content/uploads/2022/05/Tax-Sales-and-Redemptions.pdf"
+          className="text-gray-400 underline text-sm mr-4"
+        >
+          Slides
+        </Link>
+      </div>
+
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (
@@ -259,6 +283,7 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
                     <DataElement
                       text={row["Land use"]}
                       status={certRecord.parcel === "CERTIFIED"}
+                      format="landUse"
                     />
                     <DataElement
                       text={row["pid"]}
@@ -314,6 +339,7 @@ const DataElement = ({
     | "info"
     | "check"
     | "uncheck"
+    | "landUse"
     | "cert";
   link?: string;
   status?: boolean;
@@ -449,6 +475,16 @@ const DataElement = ({
         {text}
       </td>
     );
+  } else if (format === "landUse") {
+    return (
+      <td
+        className={`pl-4 py-1 text-xs text-center ${hover} ${
+          !status && "text-gray-500"
+        }`}
+      >
+        {landUseDesc[text]}
+      </td>
+    );
   } else if (link) {
     return (
       <td className={`px-4 py-1 text-xs text-center ${hover} `}>
@@ -472,6 +508,59 @@ const DataElement = ({
       </td>
     );
   }
+};
+
+const landUseDesc: { [key: string]: string } = {
+  "101 - Residential 1 Family": "Resi 1 Family",
+  "100 - Residential Vacant": "Resi Vacant",
+  "109 - Auxiliary Improvement": "Aux Improve",
+  "108 - Mobile Home": "Mobile Home",
+  "102 - Residential 2 Family": "Resi 2 Family",
+  "397 - Office/Warehouse": "Off/Warehouse",
+  "327 - Bar/Lounge": "Bar/Lounge",
+  "348 - Convenience Food Market": "Food Market",
+  "332 - Auto Service Garage": "Auto Garage",
+  "300 - Vacant Commercial Land": "Vacant Land",
+  "211 - Apartment-Garden (1-3 stories)": "Apartment",
+  "401 - Manufacturing": "Manufacturing",
+  "421 - Chemical Mfg": "Chemical Mfg",
+  "353 - Office Building-Low Rise (1-4 stories)": "Office Build",
+  "442 - Meat Packing & Slaughterhouse": "Meat Packing",
+  "112 - Active Farm": "Active Farm",
+  "371 - Downtown Row Type": "Downtown Row",
+  "314 - Hotel/Motel-High Rise": "Hotel/Motel",
+  "361 - Funeral Home": "Funeral Home",
+  "339 - Parking Miscellaneous": "Parking Misc",
+  "105 - Mixed Residential/Commercial": "Mixed Resi/Comm",
+  "103 - Residential 3 Family": "Resi 3 Family",
+  "331 - Auto Dealer-Full Service": "Auto Dealer",
+  "373 - Retail-Single Occupancy": "Retail Single",
+  "104 - Residential 4 Family": "Resi 4 Family",
+  "333 - Service Station with Bays": "Service Station",
+  "374 - Retail-Multiple Occupancy": "Retail Multi",
+  "110 - Salvage Value Building": "Salvage Build",
+  "398 - Warehouse": "Warehouse",
+  "393 - Comm Auxiliary Improvement": "Comm Aux",
+  "388 - Club House": "Club House",
+  "319 - Mixed Commercial/Residential": "Mix Comm/Resi",
+  "604 - Other Miscellaneous Exempt": "Misc Exempt",
+  "620 - Religious": "Religious",
+  "601 - Cemetery": "Cemetery",
+  "107 - Condominium (fee simple)": "Condominium",
+  "710 - Telephone Equipment Building": "Telco Building",
+  "700 - Utility Vacant Land": "Utility Land",
+  "123 - Large Vac Tract - Unknown Potential": "Large Vac Tract",
+  "336 - Car Wash-Manual": "Manual Car Wash",
+  "351 - Bank": "Bank",
+  "310 - Unsound Commercial Structure": "Unsound Comm",
+  "610 - Recreational/Health": "Rec/Health",
+  "301 - Resid. Structure on Commercial Land": "Resi on Comm",
+  "349 - Medical Office": "Medical Office",
+  "321 - Restaurant": "Restaurant",
+  "115 - Unsound Residential Structure": "Unsound Resi",
+  "113 - Inactive Farm": "Inactive Farm",
+  "213 - Mobile Home Park": "Mobile Home Park",
+  "367 - Social/Fraternal Hall": "Social Hall",
 };
 
 //get server side props

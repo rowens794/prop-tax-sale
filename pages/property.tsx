@@ -4,7 +4,7 @@ import numeral from "numeral";
 
 export default function Home({ data }: { data: any }) {
   return (
-    <main className={`min-h-screen p-12 bg-gray-800`}>
+    <main className={`min-h-screen p-12 bg-black`}>
       <h1 className="text-gray-300 pt-4 pb-2 underline text-lg">
         Property Identification
       </h1>

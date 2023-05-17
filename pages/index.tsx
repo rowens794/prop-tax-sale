@@ -139,40 +139,18 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
 
   return (
     <main className={`min-h-screen p-12 bg-black`}>
-      <div className="pb-8">
-        <Link
-          href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
-          className="text-gray-400 underline text-sm mr-4"
-        >
-          Auditor Land Sale Listings
-        </Link>
-
-        <Link
-          href="https://www.wvlegislature.gov/wvcode/code.cfm?chap=11A&art=3#01"
-          className="text-gray-400 underline text-sm"
-        >
-          State Code
-        </Link>
-
-        <Link
-          href="/eli5-breakdown.txt"
-          className="text-gray-400 underline text-sm mx-1"
-        >
-          (Short)
-        </Link>
-
-        <Link href="/eli5.txt" className="text-gray-400 underline text-sm mr-4">
-          (Shorter)
-        </Link>
-
-        <Link
-          href="https://wvbar.org/wp-content/uploads/2022/05/Tax-Sales-and-Redemptions.pdf"
-          className="text-gray-400 underline text-sm mr-4"
-        >
-          Slides
-        </Link>
-      </div>
-
+      <Link
+        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
+        className="text-gray-400 underline text-sm mr-4"
+      >
+        Auditor Land Sale Listings
+      </Link>
+      <Link
+        href="https://www.wvsao.gov/CountyCollections/Default#SB552LandSalesListings"
+        className="text-gray-400 underline text-sm mr-4"
+      >
+        Auditor Land Sale Listings
+      </Link>
       <div className="flex flex-row gap-4 font-light">
         {Object.keys(data).map((countyName) => {
           return (

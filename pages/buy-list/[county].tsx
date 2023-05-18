@@ -10,6 +10,7 @@ import {
   IoMdCheckmarkCircle,
   IoMdCloseCircle,
 } from "react-icons/io";
+import { IoIosArrowBack } from "react-icons/io";
 
 const csv = require("csvtojson");
 
@@ -20,8 +21,11 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
   const [savedUnfollowCerts, setSavedUnfollowCerts] = useState([]);
 
   useEffect(() => {
-    let counties = Object.keys(data);
-    setCounty(counties[0]);
+    //get county from url param
+    let county = window.location.pathname.split("/")[2];
+    //url decode
+    county = decodeURIComponent(county);
+    setCounty(county);
   }, [data]);
 
   useEffect(() => {
@@ -151,26 +155,14 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
       >
         Auditor Land Sale Listings
       </Link>
-      <Link
-        href={`/buy-list/${county}`}
-        className="text-gray-400 underline text-sm mr-4"
-      >
-        Buy List
-      </Link>
-      <div className="flex flex-row gap-4 font-light">
-        {Object.keys(data).map((countyName) => {
-          return (
-            <button
-              key={countyName}
-              className={`${
-                county === countyName ? "text-gray-200" : "text-gray-400"
-              }`}
-              onClick={() => setCounty(countyName)}
-            >
-              {countyName}
-            </button>
-          );
-        })}
+      <div className="text-lg pt-12">
+        <Link
+          href="/"
+          className="text-gray-400 underline text-sm mr-4 inline-block"
+        >
+          <IoIosArrowBack className="font-bold" />
+        </Link>
+        <h3 className="text-lg inline-block">{county} Buy List</h3>
       </div>
 
       <table className="mt-12">
@@ -194,93 +186,105 @@ export default function Home({ data, certs }: { data: any; certs: any }) {
 
         <tbody>
           {sortedData && sortedData[county]
-            ? sortedData[county].map((row: any) => {
-                let object = JSON.stringify(row);
-                let certID = row.certificateOfSale;
-                let certRecord = certs[county][certID];
-                return (
-                  <tr
-                    className="hover:bg-slate-700 group hover:p-4 text-gray-200"
-                    key={row.pid}
-                  >
-                    <DataElement
-                      text="info"
-                      format="info"
-                      link={`/property?data=${encodeURIComponent(object)}`}
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={certRecord.parcel}
-                      format="status"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row.certificateOfSale}
-                      format="check"
-                      status={certRecord.parcel === "CERTIFIED"}
-                      onClick={() =>
-                        saveFollowCertToLocal(row.certificateOfSale)
-                      }
-                      savedCerts={savedFollowCerts}
-                      county={county}
-                    />
-                    <DataElement
-                      text={row.certificateOfSale}
-                      format="uncheck"
-                      status={certRecord.parcel === "CERTIFIED"}
-                      onClick={() =>
-                        saveUnFollowCertToLocal(row.certificateOfSale)
-                      }
-                      savedCerts={savedUnfollowCerts}
-                      county={county}
-                    />
-                    <DataElement
-                      text={row.certificateOfSale}
-                      format="cert"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["Acreage (deed)"]}
-                      format="acres"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["Total Appraisal"]}
-                      format="dollars"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["Building Appraisal"]}
-                      format="dollars"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["minimumBid"]}
-                      format="dollars"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["Pysical Address(often incomplete)"]}
-                      format="addr"
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={row["Land use"]}
-                      status={certRecord.parcel === "CERTIFIED"}
-                      format="landUse"
-                    />
-                    <DataElement
-                      text={row["pid"]}
-                      link={row["url"]}
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                    <DataElement
-                      text={certRecord.saleDate}
-                      status={certRecord.parcel === "CERTIFIED"}
-                    />
-                  </tr>
-                );
-              })
+            ? sortedData[county]
+                .filter((row: any) => {
+                  console.log(row);
+                  //create a list of cert #s that are followed
+                  let followedCerts = savedFollowCerts.map((cert: string) => {
+                    let tempCertID = cert.replace(`${county}-`, "");
+                    return tempCertID;
+                  });
+
+                  let certID = row.certificateOfSale;
+                  return followedCerts.includes(certID);
+                })
+                .map((row: any) => {
+                  let object = JSON.stringify(row);
+                  let certID = row.certificateOfSale;
+                  let certRecord = certs[county][certID];
+                  return (
+                    <tr
+                      className="hover:bg-slate-700 group hover:p-4 text-gray-200"
+                      key={row.pid}
+                    >
+                      <DataElement
+                        text="info"
+                        format="info"
+                        link={`/property?data=${encodeURIComponent(object)}`}
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={certRecord.parcel}
+                        format="status"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row.certificateOfSale}
+                        format="check"
+                        status={certRecord.parcel === "CERTIFIED"}
+                        onClick={() =>
+                          saveFollowCertToLocal(row.certificateOfSale)
+                        }
+                        savedCerts={savedFollowCerts}
+                        county={county}
+                      />
+                      <DataElement
+                        text={row.certificateOfSale}
+                        format="uncheck"
+                        status={certRecord.parcel === "CERTIFIED"}
+                        onClick={() =>
+                          saveUnFollowCertToLocal(row.certificateOfSale)
+                        }
+                        savedCerts={savedUnfollowCerts}
+                        county={county}
+                      />
+                      <DataElement
+                        text={row.certificateOfSale}
+                        format="cert"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["Acreage (deed)"]}
+                        format="acres"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["Total Appraisal"]}
+                        format="dollars"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["Building Appraisal"]}
+                        format="dollars"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["minimumBid"]}
+                        format="dollars"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["Pysical Address(often incomplete)"]}
+                        format="addr"
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={row["Land use"]}
+                        status={certRecord.parcel === "CERTIFIED"}
+                        format="landUse"
+                      />
+                      <DataElement
+                        text={row["pid"]}
+                        link={row["url"]}
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                      <DataElement
+                        text={certRecord.saleDate}
+                        status={certRecord.parcel === "CERTIFIED"}
+                      />
+                    </tr>
+                  );
+                })
             : null}
         </tbody>
       </table>
